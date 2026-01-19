@@ -12,9 +12,6 @@ from src.datascience.constants import *
 from src.datascience.utils.common import read_yaml, create_directories,save_json
 
 #import os
-#os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/krishnaik06/datascienceproject.mlflow"
-#os.environ["MLFLOW_TRACKING_USERNAME"]="krishnaik06"
-#os.environ["MLFLOW_TRACKING_PASSWORD"]="7104284f1bb44ece21e0e2adb4e36a250ae3251f"
 #os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/sagorsaha31073/datascienceproject.mlflow"
 #os.environ["MLFLOW_TRACKING_USERNAME"]="sagorsaha31073"
 #os.environ["MLFLOW_TRACKING_PASSWORD"]="3efa17655a6d3c405cb23e270a706a139f45398a"
